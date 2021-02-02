@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EchoServer/1.0.0": {
+        "dependencies": {
+          "ValutaConvert": "1.0.0"
+        },
+        "runtime": {
+          "EchoServer.dll": {}
+        }
+      },
+      "ValutaConvert/1.0.0": {
+        "runtime": {
+          "ValutaConvert.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EchoServer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ValutaConvert/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

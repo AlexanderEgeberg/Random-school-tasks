@@ -1,0 +1,9 @@
+C:\Users\alexa\Documents\GitHub\TCP Currency exam\ValutaConvert\bin\Debug\netcoreapp3.1\ValutaConvert.deps.json
+C:\Users\alexa\Documents\GitHub\TCP Currency exam\ValutaConvert\bin\Debug\netcoreapp3.1\ValutaConvert.dll
+C:\Users\alexa\Documents\GitHub\TCP Currency exam\ValutaConvert\bin\Debug\netcoreapp3.1\ValutaConvert.pdb
+C:\Users\alexa\Documents\GitHub\TCP Currency exam\ValutaConvert\obj\Debug\netcoreapp3.1\ValutaConvert.csprojAssemblyReference.cache
+C:\Users\alexa\Documents\GitHub\TCP Currency exam\ValutaConvert\obj\Debug\netcoreapp3.1\ValutaConvert.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Documents\GitHub\TCP Currency exam\ValutaConvert\obj\Debug\netcoreapp3.1\ValutaConvert.AssemblyInfoInputs.cache
+C:\Users\alexa\Documents\GitHub\TCP Currency exam\ValutaConvert\obj\Debug\netcoreapp3.1\ValutaConvert.AssemblyInfo.cs
+C:\Users\alexa\Documents\GitHub\TCP Currency exam\ValutaConvert\obj\Debug\netcoreapp3.1\ValutaConvert.dll
+C:\Users\alexa\Documents\GitHub\TCP Currency exam\ValutaConvert\obj\Debug\netcoreapp3.1\ValutaConvert.pdb

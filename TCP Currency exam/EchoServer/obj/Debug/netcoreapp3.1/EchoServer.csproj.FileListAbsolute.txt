@@ -1,0 +1,16 @@
+C:\Users\alexa\Documents\GitHub\TCP Currency exam\EchoServer\bin\Debug\netcoreapp3.1\EchoServer.exe
+C:\Users\alexa\Documents\GitHub\TCP Currency exam\EchoServer\bin\Debug\netcoreapp3.1\EchoServer.deps.json
+C:\Users\alexa\Documents\GitHub\TCP Currency exam\EchoServer\bin\Debug\netcoreapp3.1\EchoServer.runtimeconfig.json
+C:\Users\alexa\Documents\GitHub\TCP Currency exam\EchoServer\bin\Debug\netcoreapp3.1\EchoServer.runtimeconfig.dev.json
+C:\Users\alexa\Documents\GitHub\TCP Currency exam\EchoServer\bin\Debug\netcoreapp3.1\EchoServer.dll
+C:\Users\alexa\Documents\GitHub\TCP Currency exam\EchoServer\bin\Debug\netcoreapp3.1\EchoServer.pdb
+C:\Users\alexa\Documents\GitHub\TCP Currency exam\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.csprojAssemblyReference.cache
+C:\Users\alexa\Documents\GitHub\TCP Currency exam\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Documents\GitHub\TCP Currency exam\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.AssemblyInfoInputs.cache
+C:\Users\alexa\Documents\GitHub\TCP Currency exam\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.AssemblyInfo.cs
+C:\Users\alexa\Documents\GitHub\TCP Currency exam\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.dll
+C:\Users\alexa\Documents\GitHub\TCP Currency exam\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.pdb
+C:\Users\alexa\Documents\GitHub\TCP Currency exam\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.genruntimeconfig.cache
+C:\Users\alexa\Documents\GitHub\TCP Currency exam\EchoServer\bin\Debug\netcoreapp3.1\ValutaConvert.dll
+C:\Users\alexa\Documents\GitHub\TCP Currency exam\EchoServer\bin\Debug\netcoreapp3.1\ValutaConvert.pdb
+C:\Users\alexa\Documents\GitHub\TCP Currency exam\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.csproj.CopyComplete

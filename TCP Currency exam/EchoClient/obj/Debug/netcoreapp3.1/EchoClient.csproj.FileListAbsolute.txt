@@ -1,0 +1,13 @@
+C:\Users\alexa\Documents\GitHub\TCP Currency exam\EchoClient\bin\Debug\netcoreapp3.1\EchoClient.exe
+C:\Users\alexa\Documents\GitHub\TCP Currency exam\EchoClient\bin\Debug\netcoreapp3.1\EchoClient.deps.json
+C:\Users\alexa\Documents\GitHub\TCP Currency exam\EchoClient\bin\Debug\netcoreapp3.1\EchoClient.runtimeconfig.json
+C:\Users\alexa\Documents\GitHub\TCP Currency exam\EchoClient\bin\Debug\netcoreapp3.1\EchoClient.runtimeconfig.dev.json
+C:\Users\alexa\Documents\GitHub\TCP Currency exam\EchoClient\bin\Debug\netcoreapp3.1\EchoClient.dll
+C:\Users\alexa\Documents\GitHub\TCP Currency exam\EchoClient\bin\Debug\netcoreapp3.1\EchoClient.pdb
+C:\Users\alexa\Documents\GitHub\TCP Currency exam\EchoClient\obj\Debug\netcoreapp3.1\EchoClient.csprojAssemblyReference.cache
+C:\Users\alexa\Documents\GitHub\TCP Currency exam\EchoClient\obj\Debug\netcoreapp3.1\EchoClient.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Documents\GitHub\TCP Currency exam\EchoClient\obj\Debug\netcoreapp3.1\EchoClient.AssemblyInfoInputs.cache
+C:\Users\alexa\Documents\GitHub\TCP Currency exam\EchoClient\obj\Debug\netcoreapp3.1\EchoClient.AssemblyInfo.cs
+C:\Users\alexa\Documents\GitHub\TCP Currency exam\EchoClient\obj\Debug\netcoreapp3.1\EchoClient.dll
+C:\Users\alexa\Documents\GitHub\TCP Currency exam\EchoClient\obj\Debug\netcoreapp3.1\EchoClient.pdb
+C:\Users\alexa\Documents\GitHub\TCP Currency exam\EchoClient\obj\Debug\netcoreapp3.1\EchoClient.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+C:\Users\alexa\Documents\Semester 3 Eksamen\BabyData\bin\Debug\netcoreapp3.1\BabyData.deps.json
+C:\Users\alexa\Documents\Semester 3 Eksamen\BabyData\bin\Debug\netcoreapp3.1\BabyData.dll
+C:\Users\alexa\Documents\Semester 3 Eksamen\BabyData\obj\Debug\netcoreapp3.1\BabyData.csprojAssemblyReference.cache
+C:\Users\alexa\Documents\Semester 3 Eksamen\BabyData\obj\Debug\netcoreapp3.1\BabyData.AssemblyInfoInputs.cache
+C:\Users\alexa\Documents\Semester 3 Eksamen\BabyData\obj\Debug\netcoreapp3.1\BabyData.AssemblyInfo.cs
+C:\Users\alexa\Documents\Semester 3 Eksamen\BabyData\bin\Debug\netcoreapp3.1\BabyData.pdb
+C:\Users\alexa\Documents\Semester 3 Eksamen\BabyData\obj\Debug\netcoreapp3.1\BabyData.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Documents\Semester 3 Eksamen\BabyData\obj\Debug\netcoreapp3.1\BabyData.dll
+C:\Users\alexa\Documents\Semester 3 Eksamen\BabyData\obj\Debug\netcoreapp3.1\BabyData.pdb

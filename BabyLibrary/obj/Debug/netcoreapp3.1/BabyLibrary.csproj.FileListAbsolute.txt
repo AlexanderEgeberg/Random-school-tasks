@@ -1,0 +1,9 @@
+C:\Users\alexa\Documents\Semester 3 Eksamen\BabyLibrary\bin\Debug\netcoreapp3.1\BabyLibrary.deps.json
+C:\Users\alexa\Documents\Semester 3 Eksamen\BabyLibrary\bin\Debug\netcoreapp3.1\BabyLibrary.dll
+C:\Users\alexa\Documents\Semester 3 Eksamen\BabyLibrary\bin\Debug\netcoreapp3.1\BabyLibrary.pdb
+C:\Users\alexa\Documents\Semester 3 Eksamen\BabyLibrary\obj\Debug\netcoreapp3.1\BabyLibrary.csprojAssemblyReference.cache
+C:\Users\alexa\Documents\Semester 3 Eksamen\BabyLibrary\obj\Debug\netcoreapp3.1\BabyLibrary.AssemblyInfoInputs.cache
+C:\Users\alexa\Documents\Semester 3 Eksamen\BabyLibrary\obj\Debug\netcoreapp3.1\BabyLibrary.AssemblyInfo.cs
+C:\Users\alexa\Documents\Semester 3 Eksamen\BabyLibrary\obj\Debug\netcoreapp3.1\BabyLibrary.dll
+C:\Users\alexa\Documents\Semester 3 Eksamen\BabyLibrary\obj\Debug\netcoreapp3.1\BabyLibrary.pdb
+C:\Users\alexa\Documents\Semester 3 Eksamen\BabyLibrary\obj\Debug\netcoreapp3.1\BabyLibrary.csproj.CoreCompileInputs.cache

@@ -1,0 +1,9 @@
+C:\Users\alexa\Documents\GitHub\library\bin\Debug\netcoreapp3.1\library.deps.json
+C:\Users\alexa\Documents\GitHub\library\bin\Debug\netcoreapp3.1\library.dll
+C:\Users\alexa\Documents\GitHub\library\bin\Debug\netcoreapp3.1\library.pdb
+C:\Users\alexa\Documents\GitHub\library\obj\Debug\netcoreapp3.1\library.csprojAssemblyReference.cache
+C:\Users\alexa\Documents\GitHub\library\obj\Debug\netcoreapp3.1\library.AssemblyInfoInputs.cache
+C:\Users\alexa\Documents\GitHub\library\obj\Debug\netcoreapp3.1\library.AssemblyInfo.cs
+C:\Users\alexa\Documents\GitHub\library\obj\Debug\netcoreapp3.1\library.dll
+C:\Users\alexa\Documents\GitHub\library\obj\Debug\netcoreapp3.1\library.pdb
+C:\Users\alexa\Documents\GitHub\library\obj\Debug\netcoreapp3.1\library.csproj.CoreCompileInputs.cache

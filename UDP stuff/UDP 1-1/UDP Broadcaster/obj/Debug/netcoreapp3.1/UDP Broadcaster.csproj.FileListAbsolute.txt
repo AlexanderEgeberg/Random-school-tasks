@@ -1,0 +1,29 @@
+C:\Users\alexa\Documents\GitHub\UDP stuff\UDP Broadcaster\bin\Debug\netcoreapp3.1\UDP Broadcaster.exe
+C:\Users\alexa\Documents\GitHub\UDP stuff\UDP Broadcaster\bin\Debug\netcoreapp3.1\UDP Broadcaster.deps.json
+C:\Users\alexa\Documents\GitHub\UDP stuff\UDP Broadcaster\bin\Debug\netcoreapp3.1\UDP Broadcaster.runtimeconfig.json
+C:\Users\alexa\Documents\GitHub\UDP stuff\UDP Broadcaster\bin\Debug\netcoreapp3.1\UDP Broadcaster.runtimeconfig.dev.json
+C:\Users\alexa\Documents\GitHub\UDP stuff\UDP Broadcaster\bin\Debug\netcoreapp3.1\UDP Broadcaster.dll
+C:\Users\alexa\Documents\GitHub\UDP stuff\UDP Broadcaster\bin\Debug\netcoreapp3.1\UDP Broadcaster.pdb
+C:\Users\alexa\Documents\GitHub\UDP stuff\UDP Broadcaster\obj\Debug\netcoreapp3.1\UDP Broadcaster.csprojAssemblyReference.cache
+C:\Users\alexa\Documents\GitHub\UDP stuff\UDP Broadcaster\obj\Debug\netcoreapp3.1\UDP Broadcaster.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Documents\GitHub\UDP stuff\UDP Broadcaster\obj\Debug\netcoreapp3.1\UDP Broadcaster.AssemblyInfoInputs.cache
+C:\Users\alexa\Documents\GitHub\UDP stuff\UDP Broadcaster\obj\Debug\netcoreapp3.1\UDP Broadcaster.AssemblyInfo.cs
+C:\Users\alexa\Documents\GitHub\UDP stuff\UDP Broadcaster\obj\Debug\netcoreapp3.1\UDP Broadcaster.dll
+C:\Users\alexa\Documents\GitHub\UDP stuff\UDP Broadcaster\obj\Debug\netcoreapp3.1\UDP Broadcaster.pdb
+C:\Users\alexa\Documents\GitHub\UDP stuff\UDP Broadcaster\obj\Debug\netcoreapp3.1\UDP Broadcaster.genruntimeconfig.cache
+C:\Users\alexa\Documents\GitHub\UDP stuff\UDP 1-1\UDP Broadcaster\bin\Debug\netcoreapp3.1\UDP Broadcaster.exe
+C:\Users\alexa\Documents\GitHub\UDP stuff\UDP 1-1\UDP Broadcaster\bin\Debug\netcoreapp3.1\UDP Broadcaster.deps.json
+C:\Users\alexa\Documents\GitHub\UDP stuff\UDP 1-1\UDP Broadcaster\bin\Debug\netcoreapp3.1\UDP Broadcaster.runtimeconfig.json
+C:\Users\alexa\Documents\GitHub\UDP stuff\UDP 1-1\UDP Broadcaster\bin\Debug\netcoreapp3.1\UDP Broadcaster.runtimeconfig.dev.json
+C:\Users\alexa\Documents\GitHub\UDP stuff\UDP 1-1\UDP Broadcaster\bin\Debug\netcoreapp3.1\UDP Broadcaster.dll
+C:\Users\alexa\Documents\GitHub\UDP stuff\UDP 1-1\UDP Broadcaster\bin\Debug\netcoreapp3.1\UDP Broadcaster.pdb
+C:\Users\alexa\Documents\GitHub\UDP stuff\UDP 1-1\UDP Broadcaster\bin\Debug\netcoreapp3.1\ValutaConvert.dll
+C:\Users\alexa\Documents\GitHub\UDP stuff\UDP 1-1\UDP Broadcaster\bin\Debug\netcoreapp3.1\ValutaConvert.pdb
+C:\Users\alexa\Documents\GitHub\UDP stuff\UDP 1-1\UDP Broadcaster\obj\Debug\netcoreapp3.1\UDP Broadcaster.csprojAssemblyReference.cache
+C:\Users\alexa\Documents\GitHub\UDP stuff\UDP 1-1\UDP Broadcaster\obj\Debug\netcoreapp3.1\UDP Broadcaster.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Documents\GitHub\UDP stuff\UDP 1-1\UDP Broadcaster\obj\Debug\netcoreapp3.1\UDP Broadcaster.AssemblyInfoInputs.cache
+C:\Users\alexa\Documents\GitHub\UDP stuff\UDP 1-1\UDP Broadcaster\obj\Debug\netcoreapp3.1\UDP Broadcaster.AssemblyInfo.cs
+C:\Users\alexa\Documents\GitHub\UDP stuff\UDP 1-1\UDP Broadcaster\obj\Debug\netcoreapp3.1\UDP Broadcaster.csproj.CopyComplete
+C:\Users\alexa\Documents\GitHub\UDP stuff\UDP 1-1\UDP Broadcaster\obj\Debug\netcoreapp3.1\UDP Broadcaster.dll
+C:\Users\alexa\Documents\GitHub\UDP stuff\UDP 1-1\UDP Broadcaster\obj\Debug\netcoreapp3.1\UDP Broadcaster.pdb
+C:\Users\alexa\Documents\GitHub\UDP stuff\UDP 1-1\UDP Broadcaster\obj\Debug\netcoreapp3.1\UDP Broadcaster.genruntimeconfig.cache
